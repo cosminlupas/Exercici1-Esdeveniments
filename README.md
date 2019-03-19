@@ -20,3 +20,7 @@ Utilitza la metodologia recomanada per la W3C (addEventListener) per a associar 
 ![](https://github.com/cosminlupas/Exercici1-Esdeveniments/blob/master/una.png)
 
 ## 2) Realitza la següent activitat:
+![](https://github.com/cosminlupas/Exercici1-Esdeveniments/blob/master/dosA.png)
+![](https://github.com/cosminlupas/Exercici1-Esdeveniments/blob/master/dosB.png)
+![](https://github.com/cosminlupas/Exercici1-Esdeveniments/blob/master/dosC.png)
+![](https://github.com/cosminlupas/Exercici1-Esdeveniments/blob/master/dosD.png)
